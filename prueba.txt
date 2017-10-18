@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Nå skriver jeg tekst på norsk
-
-En andre linje av tekst
-=======
-Probando a escribir un texto y guardarlo en GitHub por primera vez
->>>>>>> parent of 7f6efca... añadir segunda linea
-=======
 Probando a escribir un texto y guardarlo en GitHub por primera vez
 
 Añadida una segunda linea de texto
->>>>>>> enNoruego
